@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IuliiaKalenyk/Webpack-training.git"
+    "url": "git+https://github.com/IuliiaKalenyk/webpack-training.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IuliiaKalenyk/Webpack-training/issues"
+    "url": "https://github.com/IuliiaKalenyk/webpack-training/issues"
   },
-  "homepage": "https://github.com/IuliiaKalenyk/Webpack-training#readme",
+  "homepage": "https://github.com/IuliiaKalenyk/webpack-training#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",

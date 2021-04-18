@@ -1,4 +1,6 @@
-class Test { 
+import test from "./test";
+
+class Test {
     constructor(name) {
         this.name = name;
     }
@@ -7,5 +9,7 @@ class Test {
     }
 }
 
-const test = new Test("Ашот");
-test.testClass();
+const test1 = new Test("Ашот");
+test1.testClass();
+
+test();
